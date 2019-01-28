@@ -562,8 +562,8 @@ Thanks for Mailgun Team. You can use it as default basic templates on your proje
 
 Publications
 ------------
-* `Установка и использование с примерами на русском <http://habrahabr.ru/post/253445/>`_.
-* `Completely installation and usage with examples. Translated by Google <http://translate.google.com/translate?hl=en&sl=ru&tl=en&u=http://habrahabr.ru/post/253445/>`_.
+* <http://habrahabr.ru/post/253445/>.
+* Completely installation and usage with examples. Translated by Google <http://translate.google.com/translate?hl=en&sl=ru&tl=en&u=http://habrahabr.ru/post/253445/>.
 
 
 Screenshots
